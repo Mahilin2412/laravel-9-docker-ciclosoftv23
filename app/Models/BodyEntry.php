@@ -17,4 +17,3 @@ class BodyEntry extends Model
     ];
 
 }
-#Hi
